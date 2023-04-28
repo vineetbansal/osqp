@@ -3,7 +3,7 @@ name: Documentation and Site Link Checker (Periodic)
 on:
   schedule:
     # Run daily at 2am
-    - cron: '30 * * * *'
+    - cron: '0 2 * * *'
 
 jobs:
   check-links-periodic:
