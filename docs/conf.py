@@ -131,7 +131,7 @@ else:
                 '_static/css/osqp_theme.css'],
     }
 
-
+html_show_sourcelink = False
 
 # -- Options for HTMLHelp output ------------------------------------------
 
