@@ -37,8 +37,9 @@ forum_link: https://github.com/orgs/osqp/discussions
 include:
     - _pages
     - _static
-    - wasm
 
+keep_files:
+    - wasm
 
 # Dynamic Text on the Header
 dynamic-typing: True
