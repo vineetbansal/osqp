@@ -38,6 +38,8 @@ include:
     - _pages
     - _static
 
+keep_files:
+    - wasm
 
 # Dynamic Text on the Header
 dynamic-typing: True
